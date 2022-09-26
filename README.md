@@ -1,1 +1,1 @@
-# deneme1
+# Patika HTML Proje Ödevi
